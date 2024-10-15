@@ -1,0 +1,1 @@
+This program takes data stored in the txt files and compares then with your answers in order to guess your political leaning with the power of machine learning. The data you enter will then locally update the txt files so that the program is more acurrate on your next try. The txt files included come with pre trained data as well.
